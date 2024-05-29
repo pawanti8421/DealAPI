@@ -1,3 +1,6 @@
+<img width="697" alt="image1" src="https://github.com/pawanti8421/Temperature-converter/assets/139790625/fbaa361f-a91c-41a5-8d96-d35b63121303">
+
+
 Overview:
 The Temperature Converter project is a desktop application developed using Java Swing. It allows users to convert temperature values between Celsius, Fahrenheit, and Kelvin. The application features a straightforward and user-friendly graphical user interface (GUI) that ensures ease of use for anyone needing quick temperature conversions.
 

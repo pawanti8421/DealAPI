@@ -2,8 +2,8 @@ Overview:
 The Temperature Converter project is a desktop application developed using Java Swing. It allows users to convert temperature values between Celsius, Fahrenheit, and Kelvin. The application features a straightforward and user-friendly graphical user interface (GUI) that ensures ease of use for anyone needing quick temperature conversions.
 
 Features:
--Simple and Intuitive Interface**: The application has a clean and simple interface where users can easily input temperature values and view conversion results.
--Real-Time Conversion**: Displays converted temperature values instantly as the user inputs a value and clicks the convert button.
+- Simple and Intuitive Interface: The application has a clean and simple interface where users can easily input temperature values and view conversion results.
+- Real-Time Conversion: Displays converted temperature values instantly as the user inputs a value and clicks the convert button.
 
 GUI Components:
 - Input Field: A JTextField where the user inputs the temperature value in Celsius or Fahrenheit or Kelvin. According to input it display the converted temperatures.
